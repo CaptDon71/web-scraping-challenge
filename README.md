@@ -1,7 +1,7 @@
 **Mars Web Scraping Challenge**
 
 **Overview**
-This project is a data collection and analysis application focused on Mars weather data. The application leverages Python, Pandas, and web scraping techniques with BeautifulSoup and Splinter to gather, analyze, and visualize Martian atmospheric conditions. It includes a Flask web app that displays up-to-date information about Mars' minimum temperatures, atmospheric pressures, and other data points to provide a snapshot of the Martian climate.
+This project is a data collection and analysis application focused on Mars weather data. The application leverages Python, Pandas, and web scraping techniques with BeautifulSoup and Splinter to gather, analyze, and visualize Martian atmospheric conditions. It includes information about Mars' minimum temperatures, atmospheric pressures, and other data points to provide a snapshot of the Martian climate.
 
 **Project Structure**
 The repository contains the following key files:
