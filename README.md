@@ -13,5 +13,5 @@ README.md: Documentation file providing an overview of the project.
 
 
 **Installation**
-Clone this repository to your local machine: git clone [https://github.com/CaptDon71/mars-web-scraping-challenge.git
+Clone this repository to your local machine: git clone [https://github.com/CaptDon71/web-scraping-challenge.git
 ](https://github.com/CaptDon71/web-scraping-challenge.git)
